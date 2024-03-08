@@ -2382,7 +2382,7 @@ textarea.form-control-lg {
   width: 1rem;
   height: 1rem;
   margin-top: -0.25rem;
-  background-color: #F6E05E;
+  background-color: #E6A1A1;
   border: 0;
   border-radius: 1rem;
   -webkit-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -2415,7 +2415,7 @@ textarea.form-control-lg {
 .form-range::-moz-range-thumb {
   width: 1rem;
   height: 1rem;
-  background-color: #F6E05E;
+  background-color: #E6A1A1;
   border: 0;
   border-radius: 1rem;
   -moz-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -2866,8 +2866,8 @@ fieldset:disabled .btn {
 
 .btn-primary {
   color: #000;
-  background-color: #F6E05E;
-  border-color: #F6E05E;
+  background-color: #E6A1A1;
+  border-color: #E6A1A1;
 }
 
 .btn-primary:hover {
@@ -2899,8 +2899,8 @@ fieldset:disabled .btn {
 
 .btn-primary:disabled, .btn-primary.disabled {
   color: #000;
-  background-color: #F6E05E;
-  border-color: #F6E05E;
+  background-color: #E6A1A1;
+  border-color: #E6A1A1;
 }
 
 .btn-secondary {
@@ -3177,14 +3177,14 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-primary {
-  color: #F6E05E;
-  border-color: #F6E05E;
+  color: #E6A1A1;
+  border-color: #E6A1A1;
 }
 
 .btn-outline-primary:hover {
   color: #000;
-  background-color: #F6E05E;
-  border-color: #F6E05E;
+  background-color: #E6A1A1;
+  border-color: #E6A1A1;
 }
 
 .btn-check:focus + .btn-outline-primary, .btn-outline-primary:focus {
